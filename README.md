@@ -2,7 +2,7 @@
 Description of 1st project to detail.
 
 ## GUI Image #1: (Start screen)
-![Start Screen]()
+![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/Start%20Screen.drawio.png?raw=true)
 ## GUI Image #2: (GamePlay)
 ![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/gameplay.drawio.png?raw=true)
 ## GUI Image #3: (End of Game)
