@@ -6,7 +6,7 @@ Description of 1st project to detail.
 ## GUI Image #2: (GamePlay)
 ![GamePlay]()
 ## GUI Image #3: (End of Game)
-![End of Game]()
+![End of Game](https://github.com/LedgerStaker/Programming-project/blob/main/Images/Untitled%20Diagram.drawio.png?raw=true)
 ## Class Diagram:
 ![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/tic%20tac%20toe%20diagram.drawio.png?raw=true)
 # programming Project #2: Name?
