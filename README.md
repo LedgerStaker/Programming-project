@@ -4,7 +4,7 @@ Description of 1st project to detail.
 ## GUI Image #1: (Start screen)
 ![Start Screen]()
 ## GUI Image #2: (GamePlay)
-![GamePlay]()
+![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/gameplay.drawio.png?raw=true)
 ## GUI Image #3: (End of Game)
 ![End of Game](https://github.com/LedgerStaker/Programming-project/blob/main/Images/Untitled%20Diagram.drawio.png?raw=true)
 ## Class Diagram:
