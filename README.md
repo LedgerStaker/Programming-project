@@ -15,7 +15,7 @@ A game of guessing letters to get a word before you run out
 ## GUI Image #1: (Start screen)
 ![Start Screen](![image](https://user-images.githubusercontent.com/89046050/160417262-54415023-fd3a-4971-8b45-1f296957029a.png)
 ## GUI Image #2: (GamePlay)
-![GamePlay]()
+![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/HangMan%20gameplay.drawio.png?raw=true)
 ## GUI Image #3: (End of Game)
 ![End of Game]()
 ## Class Diagram:
