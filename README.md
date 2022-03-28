@@ -13,7 +13,7 @@ A game of places X or O to get three in a row
 A game of guessing letters to get a word before you run out
 
 ## GUI Image #1: (Start screen)
-![Start Screen]()
+![Start Screen](![image](https://user-images.githubusercontent.com/89046050/160417262-54415023-fd3a-4971-8b45-1f296957029a.png)
 ## GUI Image #2: (GamePlay)
 ![GamePlay]()
 ## GUI Image #3: (End of Game)
