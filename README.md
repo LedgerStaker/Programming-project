@@ -19,4 +19,4 @@ A game of guessing letters to get a word before you run out
 ## GUI Image #3: (End of Game)
 ![End of Game](https://github.com/LedgerStaker/Programming-project/blob/main/Images/Hangman%20end%20screen.drawio.png?raw=true)
 ## Class Diagram:
-![Class Diagram]()
+![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/Hangman%20diagram.drawio.png?raw=true)
