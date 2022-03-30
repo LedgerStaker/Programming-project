@@ -1,5 +1,5 @@
 # Programming project #1: Tic Tac Toe
-A game required coding the random placement of x and o trying to get three in a row
+A game required coding the random placement of x and o trying to get three in a row to beat the other person
 
 ## GUI Image #1: (Start screen)
 ![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/Start%20Screen.drawio.png?raw=true)
@@ -10,7 +10,7 @@ A game required coding the random placement of x and o trying to get three in a 
 ## Class Diagram:
 ![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/tic%20tac%20toe%20diagram.drawio.png?raw=true)
 # programming Project #2: HangMan
-A game of guessing letters to get a word before you run out
+A game of guessing letters to guess a random word before you run out
 
 ## GUI Image #1: (Start screen)
 ![Start Screen](![image](https://user-images.githubusercontent.com/89046050/160417262-54415023-fd3a-4971-8b45-1f296957029a.png)
