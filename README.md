@@ -1,5 +1,5 @@
 # Programming project #1: Tic Tac Toe
-A game of places X or O to get three in a row
+A game required coding the random placement of x and o trying to get three in a row
 
 ## GUI Image #1: (Start screen)
 ![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/Start%20Screen.drawio.png?raw=true)
