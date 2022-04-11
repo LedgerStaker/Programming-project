@@ -1,5 +1,6 @@
 # Programming project #1: BATTLE SHIP
 OOP solution for a random based game of trying to hit the opponent's ships
+By Ledger
 
 ## GUI Image #1: (Start screen)
 ![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPSTART.drawio.png?raw=true)
