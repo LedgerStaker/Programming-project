@@ -2,7 +2,7 @@
 OOP solution for a random based game of trying to hit the opponent's ships
 
 ## GUI Image #1: (Start screen)
-![Start Screen]()
+![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPSTART.drawio.png?raw=true)
 ## GUI Image #2: (GamePlay)
 ![GamePlay]()
 ## GUI Image #3: (End of Game)
