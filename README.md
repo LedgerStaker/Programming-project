@@ -1,5 +1,5 @@
 # Programming project #1: BATTLE SHIP
-OOP solution for a random based game of trying to hit the opponent's ships
+OOP solution for a one player game of trying to shoot the enemys ship
 By Ledger
 
 ## GUI Image #1: (Start screen)
