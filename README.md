@@ -1,5 +1,5 @@
 # Programming project #1: BATTLE SHIP
-OOP solution for a one player game of trying to shoot the enemys ship
+OOP solution for a one player game of typing in locations to try and hit the enemys ships
 By Ledger
 
 ## GUI Image #1: (Start screen)
