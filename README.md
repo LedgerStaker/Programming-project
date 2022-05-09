@@ -5,7 +5,7 @@ By Ledger
 ## GUI Image #1: (Start screen)
 ![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPSTARTSCREEN.png?raw=true)
 ## GUI Image #2: (GamePlay)
-![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPGAME.drawio.png?raw=true)
+![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPGAMEPLAY.png?raw=true)
 ## GUI Image #3: (End of Game)
 ![End of Game](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPEND.drawio.png?raw=true)
 ## Class Diagram:
