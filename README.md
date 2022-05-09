@@ -9,7 +9,7 @@ By Ledger
 ## End Screen 
 ![End Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPENDSCREEN.png?raw=true)
 ## Class Diagram:
-![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/DiagramBATTLESHIP.drawio%20(2).png?raw=true)
+![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/MINISHIPDIAGRAM.drawio.png?raw=true)
 ## Source Code:
 ![Source Code](https://github.com/LedgerStaker/Programming-project/blob/main/src/MINISHIPS.cpp)
 # programming Project #2: HangMan
