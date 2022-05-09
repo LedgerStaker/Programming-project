@@ -7,7 +7,7 @@ By Ledger
 ## GUI Image #2: (GamePlay)
 ![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPGAMEPLAY.png?raw=true)
 ## GUI Image #3: (End of Game)
-![End of Game](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPEND.drawio.png?raw=true)
+![End of Game](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPENDSCREEN.png?raw=true)
 ## Class Diagram:
 ![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/DiagramBATTLESHIP.drawio%20(2).png?raw=true)
 # programming Project #2: HangMan
