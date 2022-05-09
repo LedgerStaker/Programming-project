@@ -2,15 +2,15 @@
 OOP solution for a one player game of typing in locations to try and hit the enemys ships
 By Ledger
 
-## GUI Image #1: (Start screen)
+## Start Screen
 ![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPSTARTSCREEN.png?raw=true)
-## GUI Image #2: (GamePlay)
+## GamePlay
 ![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPGAMEPLAY.png?raw=true)
-## GUI Image #3: (End of Game)
-![End of Game](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPENDSCREEN.png?raw=true)
+## End Screen 
+![End Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPENDSCREEN.png?raw=true)
 ## Class Diagram:
 ![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/DiagramBATTLESHIP.drawio%20(2).png?raw=true)
-
+## Source Code:
 ![Source Code](https://github.com/LedgerStaker/Programming-project/blob/main/src/MINISHIPS.cpp)
 # programming Project #2: HangMan
 OOP solution for a random based game of trying to guess the random word
