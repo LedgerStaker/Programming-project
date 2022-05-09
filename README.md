@@ -3,7 +3,7 @@ OOP solution for a one player game of typing in locations to try and hit the ene
 By Ledger
 
 ## GUI Image #1: (Start screen)
-![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPSTART.drawio.png?raw=true)
+![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPSTARTSCREEN.png?raw=true)
 ## GUI Image #2: (GamePlay)
 ![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPGAME.drawio.png?raw=true)
 ## GUI Image #3: (End of Game)
