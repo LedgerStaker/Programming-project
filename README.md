@@ -1,4 +1,4 @@
-# Programming project #1: BATTLE SHIP
+# Programming project #1: MINI SHIPs
 OOP solution for a one player game of typing in locations to try and hit the enemys ships
 By Ledger
 
