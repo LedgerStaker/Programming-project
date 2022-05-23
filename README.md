@@ -3,9 +3,9 @@ OOP solution for a one player game of typing in locations to try and hit the ene
 By Ledger
 
 ## Start Screen
-![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/MiniShipGamePlay.png?raw=true)
+![Start Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/MiniShipStartScreen.png?raw=true)
 ## GamePlay
-![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPGAMEPLAY.png?raw=true)
+![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/MiniShipGamePlay.png?raw=true)
 ## End Screen 
 ![End Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/MiniShipEndScreen.png?raw=true)
 ## Class Diagram:
