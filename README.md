@@ -7,7 +7,7 @@ By Ledger
 ## GamePlay
 ![GamePlay](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPGAMEPLAY.png?raw=true)
 ## End Screen 
-![End Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/BATTLESHIPENDSCREEN.png?raw=true)
+![End Screen](https://github.com/LedgerStaker/Programming-project/blob/main/Images/MiniShipEndScreen.png?raw=true)
 ## Class Diagram:
 ![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/MINISHIPDIAGRAM.drawio.png?raw=true)
 ## Source Code:
