@@ -11,8 +11,7 @@ By Ledger
 ## Class Diagram:
 ![Class Diagram](https://github.com/LedgerStaker/Programming-project/blob/main/Images/MINISHIPDIAGRAM.drawio.png?raw=true)
 ## Source Code:
-![Source Code]([MINISHIPS (1).cpp.zip](https://github.com/LedgerStaker/Programming-project/files/8755159/MINISHIPS.1.cpp.zip)
-)
+[MINISHIP CODE](https://github.com/LedgerStaker/Programming-project/files/8755159/MINISHIPS.1.cpp.zip)
 # programming Project #2: HangMan
 OOP solution for a random based game of trying to guess the random word
 
